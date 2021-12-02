@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BookBoxed/static/css/main.cfeb5ae3.chunk.css",
+    "main.js": "/BookBoxed/static/js/main.fb7ce4a6.chunk.js",
+    "main.js.map": "/BookBoxed/static/js/main.fb7ce4a6.chunk.js.map",
+    "runtime-main.js": "/BookBoxed/static/js/runtime-main.994e01b1.js",
+    "runtime-main.js.map": "/BookBoxed/static/js/runtime-main.994e01b1.js.map",
+    "static/js/2.d15eae47.chunk.js": "/BookBoxed/static/js/2.d15eae47.chunk.js",
+    "static/js/2.d15eae47.chunk.js.map": "/BookBoxed/static/js/2.d15eae47.chunk.js.map",
+    "index.html": "/BookBoxed/index.html",
+    "precache-manifest.58cb30a535342c0e3c8ed9b92dbf188a.js": "/BookBoxed/precache-manifest.58cb30a535342c0e3c8ed9b92dbf188a.js",
+    "service-worker.js": "/BookBoxed/service-worker.js",
+    "static/css/main.cfeb5ae3.chunk.css.map": "/BookBoxed/static/css/main.cfeb5ae3.chunk.css.map",
+    "static/js/2.d15eae47.chunk.js.LICENSE.txt": "/BookBoxed/static/js/2.d15eae47.chunk.js.LICENSE.txt",
+    "static/media/books.svg": "/BookBoxed/static/media/books.348d66fd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994e01b1.js",
+    "static/js/2.d15eae47.chunk.js",
+    "static/css/main.cfeb5ae3.chunk.css",
+    "static/js/main.fb7ce4a6.chunk.js"
+  ]
+}
